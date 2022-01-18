@@ -1,14 +1,14 @@
-Name,Location,Amount,Mobile No,Payment type,Observation
-Mad max,Pakistan,90200,37223322,Instant,1
-Osama bin Laden,Afganistan,1050000,37912233,Instant,1
-Ajay Sutar,India,4500,90245898,Secure,0
-Jack Ford,France,2040000,92345677,Instant,1
-Sam Walton,Dubai,34500,90216034,Secure,0
-Mosco Warden,Germany,4500000,37983432,Instant,1
-Rafiq Hussen,Pakistan,34000,98601234,Secure,0
-Ali Hazar,Pakistan,1500000,90215021,Secure,0
-Kailash Khair,Afganistan,50000,90214078,Instant,1
-Arun Gavli,India,2300000,92343738,Instant,1
-Ratan Tata,India,3000000,90216021,Secure,0
-Sultan Mirza,India,34000,92938667,Secure,0
-Manya Surve,India,1800000,37912233,Instant,1
+Name,Location,Amount,Monthly Transactions,Payment type,Observation
+Mad max,Pakistan,90200,34,Instant,1
+Osama bin Laden,Afganistan,1050000,56,Instant,1
+Ajay Sutar,India,4500,450,Secure,0
+Jack Ford,France,2040000,71,Instant,1
+Sam Walton,Dubai,34500,560,Secure,0
+Mosco Warden,Germany,4500000,89,Instant,1
+Rafiq Hussen,Pakistan,34000,356,Secure,0
+Ali Hazar,Pakistan,1500000,566,Secure,0
+Kailash Khair,Afganistan,50000,23,Instant,1
+Arun Gavli,India,2300000,66,Instant,1
+Ratan Tata,India,3000000,589,Secure,0
+Sultan Mirza,India,34000,345,Secure,0
+Manya Surve,India,1800000,80,Instant,1
