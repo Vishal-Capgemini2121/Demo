@@ -1,14 +1,14 @@
 Name,Location,Amount,Monthly Transactions,Payment type,Civil score,Observation
-Mad max,Pakistan,90200,34,Instant,350,1
-Osama bin Laden,Afganistan,1050000,56,Instant,320,1
-Ajay Sutar,India,4500,450,Secure,780,0
-Jack Ford,France,2040000,71,Instant,360,1
-Sam Walton,Dubai,34500,560,Secure,750,0
-Mosco Warden,Germany,4500000,89,Instant,450,1
-Rafiq Hussen,Pakistan,34000,356,Secure,680,0
-Ali Hazar,Pakistan,1500000,566,Secure,860,0
-Kailash Khair,Afganistan,50000,23,Instant,390,1
-Arun Gavli,India,2300000,66,Instant,440,1
-Ratan Tata,India,3000000,589,Secure,670,0
-Sultan Mirza,India,34000,345,Secure,800,0
-Manya Surve,India,1800000,80,Instant,300,1
+Mad max,Pakistan,90200,34,Instant,350,0
+Osama bin Laden,Afganistan,1050000,56,Instant,320,0
+Ajay Sutar,India,4500,450,Secure,780,1
+Jack Ford,France,2040000,71,Instant,360,0
+Sam Walton,Dubai,34500,560,Secure,750,1
+Mosco Warden,Germany,4500000,89,Instant,450,0
+Rafiq Hussen,Pakistan,34000,356,Secure,680,1
+Ali Hazar,Pakistan,1500000,566,Secure,860,1
+Kailash Khair,Afganistan,50000,23,Instant,390,0
+Arun Gavli,India,2300000,66,Instant,440,0
+Ratan Tata,India,3000000,589,Secure,670,1
+Sultan Mirza,India,34000,345,Secure,800,1
+Manya Surve,India,1800000,80,Instant,300,0
